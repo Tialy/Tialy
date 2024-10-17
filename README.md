@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Tialy
-- 👀 I’m interested in robotics 
-- 🌱 I’m currently learning b.tech AIMM
-- 💞️ I’m looking to collaborate on ...
+Hey, Im Ganesh
+
 - 📫 How to reach me linkedin
 
 <!---
